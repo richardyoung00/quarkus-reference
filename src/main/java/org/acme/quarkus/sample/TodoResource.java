@@ -53,5 +53,4 @@ public class TodoResource {
         entity.title = todo.title;
         return Response.ok(entity).build();
     }
-
 }
